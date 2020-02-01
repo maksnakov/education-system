@@ -756,7 +756,7 @@ img {
 /* benefits-style-start  */
 .benefits {
   display: flex;
-  height: 500px;
+  /* height: 500px; */
   width: 100%;
 }
 .list_of_benefits {
@@ -774,14 +774,11 @@ img {
   grid-column: span 1;
   width: 176px;
   height: 146px;
-  justify-content: space-around;
 }
 .benefits-icon {
   display: flex;
   justify-content: center;
   width: 100%;
-  font-size: 16px;
-  padding: 10px;
 }
 .benefits-card-title {
   color: #ffffff;
@@ -810,11 +807,46 @@ img {
   background-color: #de176a;
 }
 .education_system {
-  display: inline-block;
-  float: left;
+  display: flex;
   height: 100%;
   width: 100%;
 }
 /* benefits-style-end  */
 
+/* education-style-start */
+.education_wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding-top: 60px;
+}
+.wel {
+  display: flex;
+  justify-content: center;
+  font-size: 18px;
+  color: #e84c3d;
+}
+.syst {
+  display: flex;
+  justify-content: center;
+  color: #434343;
+  font-size: 32px;
+  padding-top: 23px;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+.arrow_down {
+  display: flex;
+  justify-content: center;
+}
+.line_button {
+  display: flex;
+
+}
+.arrow_button {
+  display: flex;
+  justify-content: center;
+}
+
+/* education-style-end */
 /* main-style-end */
