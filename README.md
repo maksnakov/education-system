@@ -1,1 +1,1 @@
-https://maksnakov.github.io/education system/
+https://maksnakov.github.io/education_system/
