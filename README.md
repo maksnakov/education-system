@@ -1,2 +1,1 @@
-# education_academy# education_system
-# education_system
+https://maksnakov.github.io/education_system/
