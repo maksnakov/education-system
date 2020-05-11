@@ -85,7 +85,6 @@ li, a {
 *,
 *:before,
 *:after {
-    -webkit-box-sizing: border-box;
     box-sizing: border-box;
 }
 h1, h2, h3, h4, h5, h6 {
@@ -1878,6 +1877,8 @@ width: 225px;
 /* /footer */
 
 @media (max-width: 1200px) {
+
+  /* header */
   .header_top_both {
 width: 960px;
   }
@@ -1890,6 +1891,7 @@ width: 960px;
   }
  
 }
+
 
 
 
