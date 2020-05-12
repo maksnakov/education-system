@@ -1,1 +1,4 @@
-https://maksnakov.github.io/education_system/
+# education-system
+
+# Solution
+ https://maksnakov.github.io/education-system/
